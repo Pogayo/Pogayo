@@ -8,14 +8,14 @@ I'm Perez Ogayo, rising final-year student at 👨‍💻 African Leadership Uni
 
 ## 🧐 About
 - 😄 Pronouns: She/Her
-- 🏄‍I love developer communities.
-- 🔭 I am currently a [WomenTechmakers](https://www.womentechmakers.com/ambassadors) Kigali Ambassador,  and ALU chapter president for [Alliance4ai](https://www.alliance4ai.org/)
-- 😄 I usually take part in hackathons as a #Participant and a #Organiser
-- 🌱 Trying to get into public speaking. I organise workshops, webinars to help learners grow
-- 🌱 I’m currently strengthening my machine learning skills
-- 👯 I’m looking to collaborate on NLP projects(especially those focused on low-resourced African languages)
-- 🌱 Also love Open Source and seeking to grow in this area
-- 💻 Prpgramming Languages: Python, Javascript, HTML, CSS, Java, Dart
+- 🏄‍ I love developer communities.
+- 🔭 I am currently a [WomenTechmakers](https://www.womentechmakers.com/ambassadors) Kigali Ambassador,  and ALU chapter president for [Alliance4ai](https://www.alliance4ai.org/).
+- 😄 I usually take part in hackathons as a #Participant and a #Organiser.
+- 🌱 Trying to get into public speaking. I organise workshops, webinars to help learners grow.
+- 🌱 I’m currently strengthening my machine learning skills.
+- 👯 I’m looking to collaborate on NLP projects (especially those focused on low-resourced African languages).
+- 🌱 Also love Open Source and seeking to grow in this area.
+- 💻 Programming Languages: Python, Javascript, HTML, CSS, Java, Dart
 
 ## Say Hello!
 - ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
