@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a_ogayo)](https://twitter.com/a_ogayo) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peresogayo/)](https://www.linkedin.com/in/peresogayo/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perezogayo/)](https://medium.com/perezogayo/)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perezogayo@gmail.com)](mailto:perezogao@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@a_ogayo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a_ogayo)](https://twitter.com/a_ogayo) [![Linkedin Badge](https://img.shields.io/badge/-peresogayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peresogayo/)](https://www.linkedin.com/in/peresogayo/) [![Medium Badge](https://img.shields.io/badge/-@perezogayo-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perezogayo/)](https://medium.com/perezogayo/)
+[![Gmail Badge](https://img.shields.io/badge/-perezogayo1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perezogayo@gmail.com)](mailto:perezogao@gmail.com)
 ---
 
 
