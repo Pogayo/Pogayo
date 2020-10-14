@@ -2,7 +2,7 @@
 ## Hi there 👋,           
 I'm Perez Ogayo, rising final-year student at 👨‍💻 African Leadership University Pursuing Bsc in Computer Science.  I am a software developer. Would love to be an AI Researcher. 
 
-[![Twitter Badge](https://img.shields.io/badge/-@a_ogayo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a_ogayo)](https://twitter.com/a_ogayo) [![Linkedin Badge](https://img.shields.io/badge/-peresogayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peresogayo/)](https://www.linkedin.com/in/peresogayo/) [![Medium Badge](https://img.shields.io/badge/-@perezogayo-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perezogayo/)](https://medium.com/perezogayo/)
+[![Twitter Badge](https://img.shields.io/badge/-@a_ogayo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a_ogayo)](https://twitter.com/a_ogayo) [![Linkedin Badge](https://img.shields.io/badge/-peresogayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peresogayo/)](https://www.linkedin.com/in/peresogayo/) [![Medium Badge](https://img.shields.io/badge/-@perezogayo-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perezogayo/)](https://medium.com/@perezogayo)
 [![Gmail Badge](https://img.shields.io/badge/-perezogayo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perezogayo@gmail.com)](mailto:perezogayo@gmail.com)
 
 
